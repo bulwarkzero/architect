@@ -122,7 +122,7 @@ and `Illuminate\Database\Eloquent\Model`.
 
 $books = Book::with('Author')->get();
 
-$architect = new \Optimus\Architect\Architect;
+$architect = new \Bulwark\Architect\Architect;
 $parsed = $architect->parseData($books, [
     'author' => 'sideload' // can also be embed or ids (embed is default)
 ], 'books');
