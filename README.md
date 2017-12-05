@@ -2,9 +2,9 @@
 
 [![Latest Version](https://img.shields.io/badge/release-v1.0.2-blue.svg?style=flat-square)](https://github.com/bulwark1374/architect/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Build Status](https://img.shields.io/travis/esbenp/architect/master.svg?style=flat-square)](https://travis-ci.org/esbenp/architect)
-[![Coverage Status](https://img.shields.io/coveralls/esbenp/architect.svg?style=flat-square)](https://coveralls.io/github/esbenp/architect)
-[![Total Downloads](https://img.shields.io/packagist/dt/optimus/architect.svg?style=flat-square)](https://packagist.org/packages/optimus/architect)
+[![Build Status](https://travis-ci.org/bulwark1374/architect.svg?branch=master)](https://travis-ci.org/bulwark1374/architect)
+[![Coverage Status](https://coveralls.io/repos/github/bulwark1374/architect/badge.svg?branch=master)](https://coveralls.io/github/bulwark1374/architect)
+[![Total Downloads](https://img.shields.io/badge/downloads-1-red.svg?style=flat-square)](https://packagist.org/packages/bulwark/architect)
 
 ## Introduction
 
